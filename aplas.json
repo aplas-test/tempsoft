@@ -1,20 +1,24 @@
 {
-  "id": "tempsoft",
-  "name": "Tempsoft",
-  "categoryId": "inventory",
-  "description": "Decentralized zero tolerance hardware",
-  "investment_24m": "950",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "28",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "478",
-  "deployment_date": "8/12/12",
-  "end_of_maintenance": "24/7/17",
-  "department": "Human Resources",
-  "status": "Decomissioned",
-  "end_of_life": "4/6/19",
-  "months_to_renew_support": "1",
-  "sme_email": "Nikolia.Pundy@memento.net.au",
-  "investment_number": "444"
+  "applications": [
+    {
+      "id": "tempsoft",
+      "name": "Tempsoft",
+      "categoryId": "inventory",
+      "description": "Decentralized zero tolerance hardware",
+      "investment_24m": "950",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "28",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "478",
+      "deployment_date": "8/12/12",
+      "end_of_maintenance": "24/7/17",
+      "department": "Human Resources",
+      "status": "Decomissioned",
+      "end_of_life": "4/6/19",
+      "months_to_renew_support": "1",
+      "sme_email": "Nikolia.Pundy@memento.net.au",
+      "investment_number": "444"
+    }
+  ]
 }
